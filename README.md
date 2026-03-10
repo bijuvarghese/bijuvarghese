@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Biju Varghese
-- 👀 I’m interested in iOS Native and React Native Development
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on Mobile Development Projects
+- 👀 I’m interested in Mobile, Web and Backend Development
 - 📫 How to reach me bijukavanal@gmail.com
 
 <!---
