@@ -1,46 +1,52 @@
-# About Me
+# Hi, I'm Biju Varghese
 
-Hello! 👋 I'm **Biju Varghese**, an iOS developer who enjoys turning ideas into polished, high-performance applications—and lately, into intelligent systems that *think, decide, and act*.
+I'm an iOS, full-stack, and AI systems builder based in **Irving, TX**. My work sits at the intersection of polished mobile apps, practical backend services, and agentic workflows that connect LLMs to real tools.
 
-## Who I Am
+I enjoy taking ideas from first interaction to production architecture: SwiftUI screens, clean domain models, APIs, background jobs, cloud functions, Dockerized services, and AI agents that can reason over context and act through tools.
 
-I’m a builder at heart, comfortable moving across layers—from crafting smooth mobile experiences to designing backend systems and now, orchestrating **AI-powered workflows**. I focus on creating solutions that are **scalable, resilient, and intuitive**, with a strong emphasis on real-world usability.
+## Current Focus
 
-## My Expertise & Interests
+- **iOS engineering** with SwiftUI, SwiftData, WidgetKit, CloudKit/iCloud, async/await, and Clean Architecture
+- **Full-stack systems** with React, Next.js, Spring Boot, Node.js, REST, SSE, and Firebase Cloud Functions
+- **Agentic AI and MCP**: tool-calling agents, local LLM workflows, Model Context Protocol servers, and AI-enabled product experiences
+- **Local AI infrastructure** with LM Studio, Ollama, vLLM-style workflows, Docker, Chroma, and OpenAI-compatible model servers
+- **Practical architecture**: modular code, testable boundaries, performance-minded UI, and maintainable service design
 
-* **📱 iOS Development** – My core strength, building clean and performant apps using modern patterns like SwiftUI and Clean Architecture
-* **🌐 Web Development** – Developing responsive interfaces using tools like Next.js and React
-* **⚙️ Backend Systems** – Building scalable services with Spring Boot and Node.js
-* **🏗️ Software Architecture** – Passionate about clean architecture, modular design, and maintainable systems
-* **⚡ Performance Optimization** – Fine-tuning apps for speed, efficiency, and reliability
+## Recently Building
 
-### 🚀 Emerging Focus Areas
+### [MyWealth](https://github.com/bijuvarghese/MyWealth)
 
-* **🤖 Agentic AI** – Designing systems where LLMs can make decisions, call tools, and execute workflows
-* **🔌 MCP (Model Context Protocol)** – Building structured tool-based interactions for AI systems
-* **🧠 Local LLM Ecosystem** – Exploring tools like LM Studio, Ollama, and vLLM for running models locally
-* **🧩 AI + Full Stack Integration** – Connecting AI models with real-world applications (Next.js + Spring Boot + local models)
-* **🐳 Containerization & Infra** – Using Docker and modern deployment strategies for AI-enabled apps
+A SwiftUI iOS app for tracking personal net worth across currencies. It includes asset and liability tracking, SwiftData persistence, iCloud sync, WidgetKit home and lock screen widgets, backup import/export, exchange-rate and metal-price proxying through Firebase Cloud Functions, portfolio snapshots, reminders, and dashboard insights.
+
+### [SysMind](https://github.com/bijuvarghese/sysmind)
+
+A local AI/MCP workspace that ties together a Next.js chat UI, Spring Boot MCP server, Spring Boot agent service, Chroma-backed tooling, Docker orchestration, and a native SwiftUI iOS client. The stack is designed around local OpenAI-compatible model servers, stateless MCP tool calls, and real-time agent responses over HTTP/SSE.
+
+### [SysMind iOS](https://github.com/bijuvarghese/sysmind-ios)
+
+A native SwiftUI chat client for SysMind using Clean Architecture, presentation/domain/data boundaries, HTTP networking, server-sent events, and configurable local agent endpoints.
+
+## Tech I Reach For
+
+**Mobile:** Swift, SwiftUI, SwiftData, Combine, WidgetKit, CloudKit, XCTest, Swift Testing  
+**Frontend:** React, Next.js, TypeScript, responsive UI, API-driven product flows  
+**Backend:** Java, Spring Boot, Node.js, REST APIs, Firebase Functions, server-side caching  
+**AI systems:** MCP, tool-calling agents, local LLMs, LM Studio, Ollama, Chroma, OpenAI-compatible APIs  
+**Infrastructure:** Docker, nginx, Firebase, GitHub Actions, shell automation
 
 ## What Drives Me
 
-I enjoy exploring how different technologies interlock—like gears in a well-built machine. Recently, that curiosity has pulled me deeper into **AI systems that don’t just respond, but act**.
+I like building systems that feel simple from the outside and deliberate on the inside. Recently that has meant connecting product-quality iOS experiences with backend services, local AI runtimes, and tool-based agent workflows.
 
-What excites me:
-
-* Building **end-to-end intelligent systems** (UI → API → LLM → Tools)
-* Experimenting with **local AI setups and infra**
-* Designing **developer-friendly architectures**
-* Turning complex ideas into **simple, usable products**
+The projects that excite me most are the ones where the whole path matters: UI → API → agent → tools → data → useful result.
 
 ## Let's Connect
 
-📫 **Email:** [bijukavanal@gmail.com](mailto:bijukavanal@gmail.com)
+Email: [bijukavanal@gmail.com](mailto:bijukavanal@gmail.com)  
+GitHub: [github.com/bijuvarghese](https://github.com/bijuvarghese)
 
-I’m always open to conversations about **mobile development, full-stack systems, and AI-driven applications**—or even just exchanging ideas that spark the next build.
-
----
-
-*"From pixels to pipelines to prompts—crafting systems that don’t just run, but reason."* 🚀
+Open to conversations around mobile development, full-stack architecture, MCP, local AI systems, and AI-driven applications.
 
 ---
+
+*"From pixels to pipelines to prompts — building systems that don't just run, but reason."*
